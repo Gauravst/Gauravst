@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio.<br>🌱 I’m currently learning Web Development.<br>💬 Ask me about anything, I am happy to help, only if the ball is in my court !<br>⚡ Fun fact : I don't even know who I Am.<br>📫 How to reach me Email : gauravsinghtangariya1@gmail.com
+🔭 I’m currently working on Portfolio.<br>🌱 I’m currently learning Web Development.<br>💬 Ask me about anything, I am happy to help, only if the ball is in my court !<br>⚡ Fun fact : I don't even know who I Am.<br>📫 How to reach me, Email : gauravsinghtangariya1@gmail.com
 
 
 ## 🌐 Socials:
