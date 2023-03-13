@@ -1,8 +1,10 @@
+#Hey <Coders/> Myself Gaurav
+
 ## 💫 About Me:
 🔭 I’m currently working on Portfolio.<br>🌱 I’m currently learning Web Development.<br>💬 Ask me about anything, I am happy to help, only if the ball is in my court !<br>⚡ Fun fact : I don't even know who I Am.<br>📫 How to reach me, Email : gauravsinghtangariya1@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Let's connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gauravsinghtangariya1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravsinghtangariya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsinghtangariya) 
 
 ## 🧮 Top Projects:
