@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gauravsinghtangariya1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravsinghtangariya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsinghtangariya) 
 
 ## 🧮 Top Projects:
-🔥Musicly [Go](https://github.com/Gauravst/Musicly).<br>
+🔥Musicly [View Repository](https://github.com/Gauravst/Musicly).<br>
 🔥More Project [click here](https://bit.ly/GSTWeb)
 
 ## 💻 Tech Stack:
