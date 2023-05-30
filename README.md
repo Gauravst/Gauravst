@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gauravst&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=gauravst04)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gauravst&limit=5&theme=chalk&combine_all_yearly_contributions=true)
