@@ -20,4 +20,4 @@ Here are some of the projects I've worked on:
 - Email: [gauravsinghtangariya1@gmail.com](mailto:gauravsinghtangariya1@gmail.com)
 
 ### You can help me by Donating
-- [BuyMeACoffee]([link-to-project-3](https://buymeacoffee.com/Gauravst04)https://buymeacoffee.com/Gauravst04)
+- [BuyMeACoffee](https://buymeacoffee.com/Gauravst04)
