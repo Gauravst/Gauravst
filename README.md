@@ -1,20 +1,7 @@
-### About Me :-
-🌱 I’m currently learning Web Development.<br>📫 How to reach me, Email : gauravsinghtangariya1@gmail.com
+### About Me
+Hello! 👋 I'm Gaurav, a passionate web developer based in India. I love designing and building interactive websites and web applications. I believe in the power of technology to create innovative solutions and improve user experiences.
 
-
-### 🌐 Let's connect :-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gauravsinghtangariya1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravsinghtangariya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsinghtangariya)
-
-
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/GauravST)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gauravst04)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gauravsinghtangariya)
-[![Codepen](https://img.shields.io/badge/Codepen-%23FF0000.svg?logo=Codepen&logoColor=white)](https://codepen.io/gauravsinghtangariya) 
-
-
-### Tech Stack :-
+### Tech Stack
 * Next JS
 * React JS
 * Tailwind CSS
@@ -22,15 +9,17 @@
 * Node JS
 * Firebase
 
+### Projects
+Here are some of the projects I've worked on:
 
-### GitHub Stats :-
+- [Project 1](link-to-project-1): A responsive e-commerce website built with React.js and Node.js.
+- [Project 2](link-to-project-2): A portfolio website showcasing my web development work.
+- [Project 3](link-to-project-3): A real-time chat application using Socket.io.
 
-![](https://github-readme-stats.vercel.app/api?username=Gauravst&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gauravst&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravst&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Get in Touch
+- Email: [gauravsinghtangariya1@gmail.com](mailto:gauravsinghtangariya1@gmail.com)
 
-
-### You can help me by Donating :-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Gauravst04) 
+### You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Gauravst04) 
 
   
