@@ -2,12 +2,10 @@
 Hello! 👋 I'm Gaurav, a passionate web developer based in India. I love designing and building interactive websites and web applications. I believe in the power of technology to create innovative solutions and improve user experiences.
 
 ### Tech Stack
-* Next JS
-* React JS
-* Tailwind CSS
-* Mongo DB
-* Node JS
-* Firebase
+* React JS, Next JS,
+* Tailwind CSS,
+* Node JS, Express.js,
+* Mongo DB, Firebase,
 
 ### Projects
 Here are some of the projects I've worked on:
