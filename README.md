@@ -11,8 +11,6 @@ Hello! 👋 I'm Gaurav, a passionate web developer based in India. I love design
 Here are some of the projects I've worked on:
 
 - [Musicly](https://github.com/Gauravst/Musicly): A responsive Music website built with HTML5, CSS3, and JS.
-- [Project 2](link-to-project-2): A portfolio website showcasing my web development work.
-- [Project 3](link-to-project-3): A real-time chat application using Socket.io.
 
 ### Get in Touch
 - Email: [gauravsinghtangariya1@gmail.com](mailto:gauravsinghtangariya1@gmail.com)
