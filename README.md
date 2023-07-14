@@ -13,7 +13,7 @@ Here are some of the projects I've worked on:
 - [Musicly](https://github.com/Gauravst/Musicly): A responsive Music website built with HTML5, CSS3, and JS.
 
 ### Get in Touch
-- Email: [gauravsinghtangariya1@gmail.com](mailto:gauravsinghtangariya1@gmail.com)
+- Email: [gauravst000@gmail.com](mailto:gauravst000@gmail.com)
 
 ### Help me by Donating
 - [BuyMeACoffee](https://buymeacoffee.com/Gauravst04)
