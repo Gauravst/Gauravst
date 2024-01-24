@@ -15,5 +15,3 @@ Here are some of the projects I've worked on:
 ### Get in Touch
 - Email: [gauravst000@gmail.com](mailto:gauravst000@gmail.com)
 
-### Help me by Donating
-- [BuyMeACoffee](https://buymeacoffee.com/Gauravst04)
