@@ -1,5 +1,5 @@
 ### About Me
-Hello! 👋 I'm Gaurav, a passionate developer based in India. I love designing and building interactive websites and web applications. I believe in the power of technology to create innovative solutions and improve user experiences.
+Hello! 👋 I'm Gaurav Singh Tangariya, a passionate developer based in India. I love designing and building interactive websites and web applications. I believe in the power of technology to create innovative solutions and improve user experiences.
 
 ### Tech Stack
 * HTML5, CSS3, JS, PHP, SQL, C++, Python,
