@@ -1,5 +1,5 @@
 ### About Me
-Hello! 👋 I'm Gaurav Singh Tangariya, a passionate developer based in India. I love designing and building interactive websites and web applications. I believe in the power of technology to create innovative solutions and improve user experiences.
+Hi there! I'm Gaurav Singh Tangariya, an Aspiring Full Stack Developer passionate about building impactful web experiences.  I craft interactive websites and web applications using my skills in MERN, Next.js, PHP, C++, and Python.  I believe in leveraging technology to create innovative solutions and enhance user journeys. ✨
 
 ### Tech Stack
 * HTML5, CSS3, JS, PHP, SQL, C++, Python,
