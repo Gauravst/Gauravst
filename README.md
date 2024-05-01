@@ -1,8 +1,8 @@
 ### About Me
-Hi there! I'm Gaurav Singh Tangariya, an Aspiring Full Stack Developer passionate about building impactful web experiences.  I craft interactive websites and web applications using my skills in MERN, Next.js, PHP, C++, and Python.  I believe in leveraging technology to create innovative solutions and enhance user journeys. ✨
+Hi there! I'm Gaurav Singh Tangariya, an Aspiring Developer ✨
 
 ### Tech Stack
-* HTML5, CSS3, JS, PHP, SQL, C++, Python,
+* HTML5, CSS3, JS, TS, PHP, SQL, C++, Python,
 * React JS, Next JS, Tailwind CSS,
 * Node JS, Express.js,
 * Mongo DB, Firebase, MySQL,
