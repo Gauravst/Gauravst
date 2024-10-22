@@ -8,5 +8,5 @@ Hi there! I'm Gaurav Singh Tangariya, an Aspiring Developer ✨
 * Mongo DB,
 
 ### Get in Touch
-- Email: [gauravsinghtangariya1@gmail.com](mailto:gauravsinghtangariya1@gmail.com)
+- Email: [mail@gauravst.in](mailto:mail@gauravst.in)
 
