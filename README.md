@@ -1,5 +1,5 @@
 ### About Me
-Hi there! I'm Gaurav Singh Tangariya, an Aspiring Developer ✨
+Hi there! I'm Gaurav , an Aspiring Developer ✨
 
 ### Tech Stack
 * HTML5, CSS3, JS, TS, PHP, C++,
