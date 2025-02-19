@@ -2,11 +2,12 @@
 Hi there! I'm Gaurav , an Aspiring Developer ✨
 
 ### Tech Stack
-* HTML5, CSS3, JS, TS, PHP, C++,
-* React JS, Tailwind CSS,
-* Node JS, Express.js,
-* Mongo DB,
+* Backend - Node js and Go lang
+* Database - PostgreSQL, MySQL, and MongoDB
+* Frontend - React and Next js
+* Version Control - Git and GitHub
 
-### Get in Touch
+### Imp. Links
+- Portfolio: [me.gauravst.in](https://me.gauravst.in/)
 - Email: [mail@gauravst.in](mailto:mail@gauravst.in)
 
