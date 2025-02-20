@@ -1,5 +1,5 @@
 ### About Me
-Hi there! I'm Gaurav , an Aspiring Developer ✨
+Hi there! I'm Gaurav , an Backend Developer ✨
 
 ### Tech Stack
 * Backend - Node js and Go lang
