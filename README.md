@@ -2,17 +2,10 @@
 Hi there! I'm Gaurav , an Backend Developer ✨
 
 ### Tech Stack
-**Languages & Frameworks:**  
-Node.js, Express.js, JavaScript, TypeScript, Go (Golang)
-
-**Tools & Platforms:**  
-Docker, AWS, Git, GitHub, Linux
-
-**Databases & Caching:**  
-Redis, PostgreSQL, MySQL, MongoDB
-
-**Frontend:**  
-React, Next.js, Tailwind CSS
+* Languages & Frameworks - Node.js, Express.js, JavaScript, TypeScript, Go (Golang)  
+* Tools & Platforms - Docker, AWS, Git, GitHub, Linux  
+* Databases & Caching - Redis, PostgreSQL, MySQL, MongoDB  
+* Frontend - React, Next.js, Tailwind CSS  
 
 
 ### Imp. Links
