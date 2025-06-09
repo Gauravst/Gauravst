@@ -10,6 +10,7 @@ Hi there! I'm Gaurav , an Backend Developer ✨
 
 ### Imp. Links
 - Portfolio: [me.gauravst.in](https://me.gauravst.in/)
-- Email: [mail@gauravst.in](mailto:mail@gauravst.in)
+- Resume : [Resume](https://me.gauravst.in/Gaurav_Singh_Tangariya_Resume.pdf)
+- Email: [gauravsinghtangariya1@gmail.com](mailto:gauravsinghtangariya1@gmail.com) OR [mail@gauravst.in](mailto:mail@gauravst.in)
 - Donate: [UPI or Buy Me a Coffee](https://me.gauravst.in/donate/)
 
