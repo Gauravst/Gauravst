@@ -1,5 +1,5 @@
 ### About Me
-Hi there! I'm Gaurav , an Backend Developer ✨
+Hi there! I'm Gaurav , an Developer ✨
 
 ### Tech Stack
 * Languages & Frameworks - Node.js, Express.js, JavaScript, TypeScript, Go (Golang)  
